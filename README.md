@@ -15,6 +15,10 @@ Please see notebook titled "EDA"
 ## Prerequisites:
 Ensure Tweets.csv in the root directory and that pymc has been installed.
 
+## Example:
+
+"Educational Outcomes for Hearing-impaired Children" : https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/pymc_overview.html
+
 ## Installation Steps:
 Install pymc on machine:  
 https://www.pymc.io/projects/docs/en/latest/installation.html
